@@ -5,4 +5,4 @@ metadata:
   name: thoughtworks
 spec:
   type: team
-  children: [awesome-pet]
+  children: [awesome-pet-project]
