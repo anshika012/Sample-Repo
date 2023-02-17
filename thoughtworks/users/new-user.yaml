@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: anshika012
+  profile:
+    displayName: Anshika Verma
+    email: anshikaverma00012@gmail.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
