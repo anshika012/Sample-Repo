@@ -6,7 +6,7 @@ metadata:
 spec:
   targets:
     - ./groups/awesome-project.yaml
-    - ./groups/awesome-pet.yaml
+    - ./groups/awesome-pet-project.yaml
     - ./groups/tw.yaml
     - ./groups/new-team.yaml
     - ./users/users.yaml
