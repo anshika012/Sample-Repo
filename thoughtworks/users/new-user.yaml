@@ -7,4 +7,4 @@ metadata:
     email: anshikaverma00012@gmail.com
     picture: 
 spec:
-  memberOf: [thoughtworks, awesome-pet]
+  memberOf: [thoughtworks, awesome-project, awesome-pet-project]
